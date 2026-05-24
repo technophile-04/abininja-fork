@@ -104,3 +104,4 @@ For more information on writing Cypress tests, refer to the Cypress Documentatio
 We welcome contributions to ABI Ninja!
 
 Please see [CONTRIBUTING.MD](https://github.com/BuidlGuidl/abi.ninja/blob/main/CONTRIBUTING.md) for more information and guidelines for contributing to ABI Ninja.
+a
